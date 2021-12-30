@@ -8,6 +8,10 @@ Change 3:- for the bug2
 
 Change 4:- for stash test
 
-Change 5: For WI6 on local master to test normal
+Change 5:- For WI6 on local master to test normal
 
-Change 6:File1 updated by teammate on remote master
+Change 6:- File1 updated by teammate on remote master
+
+Change 7:- For WI6 on local master to test normal
+
+Change 8:- on local master for WI7.
